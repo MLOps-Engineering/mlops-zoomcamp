@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-Read me file initial
+Initial commit. 
